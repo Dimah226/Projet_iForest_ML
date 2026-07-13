@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+data/sorties/*
+!data/sorties/README.md
+notebooks/*_report.html
+*.log
+# Rapport : seul le PDF final placé à la racine est publié.
+/rapport/
+/output/
